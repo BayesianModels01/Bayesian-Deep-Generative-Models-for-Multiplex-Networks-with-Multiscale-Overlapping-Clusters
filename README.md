@@ -10,8 +10,8 @@
 - `plot_sim.py`: plot simulation outputs
 - `run_sens.py`: posterior computation for sensitivity analysis
 - `plot_sens.py`: plot sensitivity analysis outputs
-- `run_large_p_small_n.py`: posterior computation for large-$p_K$ small-$N$ regime
-- `plot_large_p_small_n.py`: plot large-$p_K$ small-$N$ regime outputs
+- `run_large_p_small_n.py`: posterior computation for large-p small-N regime
+- `plot_large_p_small_n.py`: plot large-p small-N regime outputs
 - `run_hsbm.py`: posterior computation for simulated data from hierarchical stochastic block model
 - `run_hsbm_hcd.py`: fitting [hierarchical community detection by recursive partitioning (HCD)](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1833888) for simulated data from hierarchical stochastic block model
 - `plot_hsbm.py`: plot outputs of this comparison with HCD over simulated data from hierarchical stochastic block model
@@ -28,7 +28,7 @@
 - `simulation/`: all simulation outputs, including:
   - main simulation study
   - sensitivity analysis
-  - large-$p_K$ small-$N$ regime
+  - large-p small-N regime
   - comparison with HCD
 - `application/`: all application outputs, including:
   - main application to brain connectivity networks

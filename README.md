@@ -22,7 +22,12 @@
 - `plot_mask.py`: plot outputs of this comparison with DCMM over prediction of missing edges in masked brain connectivity networks
 
 ## Data
-- (data files placed here)
+- `atlas_desikan_killiany.nii`: desikan-killiany atlas data for plotting networks on brain cortex
+- `brain_connectivity_network_data.mat`: brain connectivity networks data (requires Git LFS)
+- `brain_region_coordinates.npy`: coordinates of brain regions for plotting networks on brain cortex
+- `brain_region_names.txt`: mapping of brain region indices to names
+- `cognitive_measure_data.npy`: cognitive measures data
+- `cognitive_measure_names.txt`: cognitive measure names
 
 ## Output
 - `simulation/`: all simulation outputs, including:

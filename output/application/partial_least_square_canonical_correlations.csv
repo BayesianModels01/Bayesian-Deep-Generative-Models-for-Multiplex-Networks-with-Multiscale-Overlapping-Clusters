@@ -1,0 +1,34 @@
+cognitive_group_name,latent_X_pls_corr,latent_P_pls_corr
+Delay Discounting,0.15248185236754952,0.08960059406282556
+Education and Income,0.21289332031090527,0.08610168809317327
+Emotion recognition,0.17314371245569127,0.08293357308786559
+Episodic Memory (Picture Sequence Memory) - C:Cognition,0.17586366023488217,0.14560983128764063
+Fluid Intelligence (Penn Progressive Matrices),0.2006289513463847,0.1057338772615644
+Health and Family History,0.24934156791492026,0.1215844597394447
+Instrument: Alcohol Use and Dependence,0.14401258132956757,0.08592531494525647
+Instrument: Audition (Words in Noise,0.2123160904356111,0.08598128143432603
+Instrument: Contrast Sensitivity (Mars Contrast Sensitivity),0.15548317385229113,0.06378663414681653
+Instrument: Dexterity (9-hole Pegboard) - C: Motor,0.20560411893293543,0.17520282455778555
+Instrument: Endurance (2 minute walk test),0.16588835163517898,0.10221204549394841
+Instrument: Executive Function/Cognitive Flexibility (Dimensional Change Card Sort),0.1893974032792996,0.07131541094426276
+Instrument: Executive Function/Inhibition (Flanker Task),0.1639418061135476,0.06663644572484441
+Instrument: Five Factor Model (NEO-FFI),0.18454291143476692,0.08832585276412797
+Instrument: Illicit Drug Use,0.1787745397107841,0.08638171243341287
+Instrument: Language/Reading Decoding (Oral Reading Recognition),0.17627608073799828,0.10234352058906455
+Instrument: Locomotion (4-meter walk test),0.23756980801468663,0.08047049299967739
+Instrument: Marijuana Use and Dependence,0.2733584680151243,0.11479937099388429
+Instrument: Negative Affect,0.24016373237158997,0.07130316261477265
+Instrument: Spatial Orientation (Variable Short Penn Line Orientation Test),0.2005067757342939,0.09507021433379281
+Instrument: Strength (Grip Strength Dynamometry),0.23611266170113213,0.1056961056298418
+Instrument: Stress and Self Efficacy,0.1658527028146936,0.08579112354686837
+Instrument: Sustained Attention (Short Penn Continuous Performance Test),0.14306046158658992,0.10320603838638188
+Instrument: Tobacco Use and Dependence,0.30908618950771216,0.16926626765326308
+Instrument: Verbal Episodic Memory (Penn Word Memory Test),0.1848105692310089,0.09017361642087532
+Language/Vocabulary Comprehension (Picture Vocabulary),0.19804033010418667,0.11315187194551536
+Processing Speed (Pattern Completion Processing Speed),0.15402155464469855,0.07403678326020295
+Psychological Well-being,0.23889654058147358,0.0852153649983744
+Restricted Instrument: Psychiatric History,0.2229616997499138,0.0837375072085332
+Social Relationships,0.21657544219082836,0.21520865156063568
+Working Memory (List Sorting),0.2037306326874264,0.08040630608995335
+"cog_measure[65,] = table1$PainIntens_RawScore Odor",0.22972968034119073,0.09379913865137032
+lift function,0.2079253227904864,0.05771837758271999

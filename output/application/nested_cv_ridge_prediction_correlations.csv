@@ -1,0 +1,176 @@
+cognitive_measure_name,latent_X_ridge_corr,latent_P_ridge_corr
+PMAT24_A_CR @ Fluid Intelligence (Penn Progressive Matrices),0.10505333583020358,0.06731737800736934
+PMAT24_A_SI @ Fluid Intelligence (Penn Progressive Matrices),0.09820553227322101,0.0691584887543682
+PMAT24_A_RTCR @ Fluid Intelligence (Penn Progressive Matrices),-0.019380167591492744,0.06606262590991824
+ReadEng_Unadj @ Instrument: Language/Reading Decoding (Oral Reading Recognition),0.1060647898645271,0.047452715026062596
+ReadEng_AgeAdj @ Instrument: Language/Reading Decoding (Oral Reading Recognition),0.12106247899888045,0.03402551766976627
+PicVocab_Unadj @ Language/Vocabulary Comprehension (Picture Vocabulary),0.07999813238915816,0.04600267608836507
+PicVocab_AgeAdj @ Language/Vocabulary Comprehension (Picture Vocabulary),0.08365521079065161,0.03554517327414633
+IWRD_TOT @ Instrument: Verbal Episodic Memory (Penn Word Memory Test),0.0222206202186813,-0.0637644849807457
+IWRD_RTC @ Instrument: Verbal Episodic Memory (Penn Word Memory Test),-0.03780205631166735,-0.10709973556011376
+ProcSpeed_Unadj @ Processing Speed (Pattern Completion Processing Speed),-0.008015855595574295,-0.029149275564964713
+ProcSpeed_AgeAdj @ Processing Speed (Pattern Completion Processing Speed),-0.01346390321367265,-0.005721833004995698
+DDisc_SV_1mo_200 @ Delay Discounting,-0.03883003262900911,-0.004081333631488175
+DDisc_SV_6mo_200 @ Delay Discounting,-0.04574959932694806,-0.010526517997045296
+DDisc_SV_1yr_200 @ Delay Discounting,0.04435252450487193,-0.04098122612505101
+DDisc_SV_3yr_200 @ Delay Discounting,0.020417941436628746,0.006766004088872329
+DDisc_SV_5yr_200 @ Delay Discounting,-0.06849336942137922,0.013501868690536887
+DDisc_SV_10yr_200 @ Delay Discounting,-0.09467553598113958,0.02497544117940212
+DDisc_SV_6mo_40K @ Delay Discounting,-0.03799811277246578,-0.05956812626060812
+DDisc_SV_1yr_40K @ Delay Discounting,0.07329707962829526,-0.02187699128569917
+DDisc_SV_3yr_40K @ Delay Discounting,-0.080480725854779,-0.030443271748209905
+DDisc_SV_5yr_40K @ Delay Discounting,-0.030818576611904486,0.01686538599948381
+DDisc_SV_10yr_40K @ Delay Discounting,-0.05934511157349695,-0.029859682639059235
+DDisc_AUC_200 @ Delay Discounting,-0.06236598010514606,0.0025468172989745676
+DDisc_AUC_40K @ Delay Discounting,-0.004612749810520546,-0.0013285720561117878
+VSPLOT_TC @ Instrument: Spatial Orientation (Variable Short Penn Line Orientation Test),0.11632061757112845,0.040172029962685
+VSPLOT_CRTE @ Instrument: Spatial Orientation (Variable Short Penn Line Orientation Test),-0.09482367915840682,-0.10733565750132715
+VSPLOT_OFF @ Instrument: Spatial Orientation (Variable Short Penn Line Orientation Test),0.13925448865156356,0.019894924739040334
+SCPT_TP @ Instrument: Sustained Attention (Short Penn Continuous Performance Test),0.003976892695886622,-0.08174663173888272
+SCPT_TN @ Instrument: Sustained Attention (Short Penn Continuous Performance Test),-0.025544199581826674,0.03940543038763786
+SCPT_FP @ Instrument: Sustained Attention (Short Penn Continuous Performance Test),-0.025544199581827937,0.03940543038763852
+SCPT_FN @ Instrument: Sustained Attention (Short Penn Continuous Performance Test),0.003976892695886105,-0.08174663173888355
+SCPT_TPRT @ Instrument: Sustained Attention (Short Penn Continuous Performance Test),-0.10321989518459442,-0.08024238197474208
+SCPT_SEN @ Instrument: Sustained Attention (Short Penn Continuous Performance Test),0.003996940592864878,-0.08175678647873924
+SCPT_SPEC @ Instrument: Sustained Attention (Short Penn Continuous Performance Test),-0.025588063107902303,0.03940908893505129
+SCPT_LRNR @ Instrument: Sustained Attention (Short Penn Continuous Performance Test),-0.055005228390933386,-0.0675099295969067
+ListSort_AgeAdj @ Working Memory (List Sorting),-0.10377389100281105,-0.03089603298726634
+ListSort_Unadj @ Working Memory (List Sorting),-0.10808556198620589,-0.040435051582175786
+PicSeq_AgeAdj @ Episodic Memory (Picture Sequence Memory) - C:Cognition,-0.03264808585234544,-0.11964617677683916
+PicSeq_Unadj @ Episodic Memory (Picture Sequence Memory) - C:Cognition,-0.042112385046216165,-0.1069471162144555
+SSAGA_Educ @ Education and Income,0.10482972273214321,0.017148549269646995
+SSAGA_Income @ Education and Income,0.11872522054285105,-0.04994504138824362
+CardSort_Unadj @ Instrument: Executive Function/Cognitive Flexibility (Dimensional Change Card Sort),0.04231468254616842,-0.018169443193427733
+CardSort_AgeAdj @ Instrument: Executive Function/Cognitive Flexibility (Dimensional Change Card Sort),0.09590566709382474,0.015911701029113903
+Flanker_Unadj @ Instrument: Executive Function/Inhibition (Flanker Task),-0.039290557299454104,-0.06297476288642857
+Flanker_AgeAdj @ Instrument: Executive Function/Inhibition (Flanker Task),-0.04534976523906095,-0.07006283092816319
+Dexterity_AgeAdj @ Instrument: Dexterity (9-hole Pegboard) - C: Motor,0.03774194330109558,-0.08459398902683057
+Dexterity_Unadj @ Instrument: Dexterity (9-hole Pegboard) - C: Motor,0.033505549995917094,-0.08043866964334627
+Endurance_Unadj @ Instrument: Endurance (2 minute walk test),0.011569487848711502,-0.0005006059095868608
+Endurance_AgeAdj @ Instrument: Endurance (2 minute walk test),0.012569962705083025,0.019934585252051034
+GaitSpeed_Comp @ Instrument: Locomotion (4-meter walk test),-0.12593418431630918,-0.027165788852502183
+Strength_Unadj @ Instrument: Strength (Grip Strength Dynamometry),0.23367351313056478,0.06717880401292418
+Strength_AgeAdj @ Instrument: Strength (Grip Strength Dynamometry),0.23149270865273627,0.08172141362559313
+SSAGA_Alc_D4_Dp_Sx @ Instrument: Alcohol Use and Dependence,-0.021011581924047444,-0.0028277404207492263
+SSAGA_Alc_D4_Ab_Dx @ Instrument: Alcohol Use and Dependence,-0.005050232488255546,-0.04502731109627274
+SSAGA_Alc_D4_Ab_Sx @ Instrument: Alcohol Use and Dependence,-0.018625766796302158,-0.04094011599287794
+SSAGA_Alc_D4_Dp_Dx @ Instrument: Alcohol Use and Dependence,-0.05685894466159619,-0.05888110217978858
+SSAGA_Alc_12_Drinks_Per_Day @ Instrument: Alcohol Use and Dependence,-0.08453755388847156,-0.02859718018424538
+SSAGA_Alc_12_Frq @ Instrument: Alcohol Use and Dependence,0.046037408246921464,-0.01598720653479789
+SSAGA_Alc_12_Frq_5plus @ Instrument: Alcohol Use and Dependence,-0.04914892819050944,-0.04079051185444363
+SSAGA_Alc_12_Frq_Drk @ Instrument: Alcohol Use and Dependence,-0.04914892819050944,-0.04079051185444363
+SSAGA_Alc_12_Max_Drinks @ Instrument: Alcohol Use and Dependence,-0.04914892819050944,-0.04079051185444363
+SSAGA_Alc_Age_1st_Use @ Instrument: Alcohol Use and Dependence,-0.07819631069953001,-0.06933878371579114
+SSAGA_Alc_Hvy_Drinks_Per_Day @ Instrument: Alcohol Use and Dependence,-0.08126746259988303,-0.03433803428044878
+SSAGA_Alc_Hvy_Frq @ Instrument: Alcohol Use and Dependence,-0.020471096113600734,-0.014688065299485896
+SSAGA_Alc_Hvy_Frq_5plus @ Instrument: Alcohol Use and Dependence,-0.029201119022555393,-0.04173070665116017
+SSAGA_Alc_Hvy_Frq_Drk @ Instrument: Alcohol Use and Dependence,-0.06806853880974643,0.001862315255695367
+SSAGA_Alc_Hvy_Max_Drinks @ Instrument: Alcohol Use and Dependence,0.08308948134977888,0.09604366083930366
+SSAGA_TB_Age_1st_Cig @ Instrument: Tobacco Use and Dependence,-0.03508968013740208,-0.17521821626859385
+SSAGA_TB_DSM_Difficulty_Quitting @ Instrument: Tobacco Use and Dependence,-0.14006306620337547,-0.2007969300837655
+SSAGA_TB_Max_Cigs @ Instrument: Tobacco Use and Dependence,-0.19678889350672193,-0.10705756643354798
+SSAGA_TB_Reg_CPD @ Instrument: Tobacco Use and Dependence,-0.05714656371488892,-0.10764356714518035
+SSAGA_TB_Yrs_Smoked @ Instrument: Tobacco Use and Dependence,-0.19940277827169772,-0.18826779375074448
+SSAGA_TB_Still_Smoking @ Instrument: Tobacco Use and Dependence,0.08636972443232172,0.10442253101430825
+Times_Used_Any_Tobacco_Today @ Instrument: Tobacco Use and Dependence,0.07606379181982788,0.018931788765292893
+Avg_Weekend_Any_Tobacco_7days @ Instrument: Tobacco Use and Dependence,0.04747077341429044,0.04568008103322
+Total_Cigars_7days @ Instrument: Tobacco Use and Dependence,-0.03216483132261218,-0.037514469079032574
+Avg_Weekend_Cigars_7days @ Instrument: Tobacco Use and Dependence,-0.01859840940887362,-0.012589102298543955
+Num_Days_Used_Any_Tobacco_7days @ Instrument: Tobacco Use and Dependence,0.057277781550374995,0.051088511439268174
+SSAGA_Times_Used_Illicits @ Instrument: Illicit Drug Use,0.019814393805514162,0.018342242713041683
+SSAGA_Times_Used_Cocaine @ Instrument: Illicit Drug Use,0.024614471518063945,-0.03951320609644069
+SSAGA_Times_Used_Hallucinogens @ Instrument: Illicit Drug Use,-0.008653951336656055,-0.016716886585542177
+SSAGA_Times_Used_Opiates @ Instrument: Illicit Drug Use,0.0061754105096038445,0.024016442451615702
+SSAGA_Times_Used_Sedatives @ Instrument: Illicit Drug Use,-0.02571207527816393,-0.09240284586202974
+SSAGA_Times_Used_Stimulants @ Instrument: Illicit Drug Use,-0.05908406164044052,-0.05650815399496844
+SSAGA_Mj_Use @ Instrument: Marijuana Use and Dependence,-0.05691924246136407,-0.07680791729777245
+SSAGA_Mj_Ab_Dep @ Instrument: Marijuana Use and Dependence,-0.05150887491968587,-0.029122094963703715
+SSAGA_Mj_Age_1st_Use @ Instrument: Marijuana Use and Dependence,0.053682643507340706,-0.01579680170172125
+SSAGA_Mj_Times_Used @ Instrument: Marijuana Use and Dependence,0.022060015110300916,-0.12956882154820498
+ASR_Anxd_Raw @ lift function,-0.08103586862379143,-0.09906337318287525
+ASR_Anxd_Pct @ lift function,-0.11487358104233603,-0.11500679276697777
+ASR_Witd_Raw @ lift function,-0.04004284938268893,-0.06014658840074086
+ASR_Witd_Pct @ lift function,-0.056194692061168804,-0.057800364314997875
+ASR_Soma_Raw @ lift function,-0.005441459598346114,-0.10516320558857925
+ASR_Soma_Pct @ lift function,0.003831749353531114,-0.11722257352925083
+ASR_Thot_Raw @ lift function,-0.035956831938676985,-0.07352397651932192
+ASR_Thot_Pct @ lift function,0.018955162897068282,-0.08207031920572515
+ASR_Attn_Raw @ lift function,0.012052801314559712,-0.09239348399645066
+ASR_Attn_Pct @ lift function,0.060562459555730655,-0.10286100111019184
+ASR_Aggr_Raw @ lift function,-0.06181866252771134,-0.04873625324816524
+ASR_Aggr_Pct @ lift function,-0.06239975524704193,-0.030905367574479297
+ASR_Rule_Raw @ lift function,0.043656393544296235,-0.04606406252523645
+ASR_Rule_Pct @ lift function,0.022959408884871628,-0.038222277599976595
+ASR_Intr_Raw @ lift function,-0.054487451882459535,-0.12591287605664242
+ASR_Intr_Pct @ lift function,-0.04498375810887731,-0.06587148810352582
+ASR_Oth_Raw @ lift function,-0.06231183588597645,-0.07557525183272688
+ASR_Crit_Raw @ lift function,-0.05875088273371467,-0.08717634600772577
+ASR_Intn_Raw @ lift function,-0.03643156783222756,-0.05521743533191699
+ASR_Intn_T @ lift function,-0.07165722459452618,-0.06118765687017918
+ASR_Extn_Raw @ lift function,0.009464361423929077,-0.04485708875699526
+ASR_Extn_T @ lift function,0.006828214010585664,-0.06187420986333724
+ASR_TAO_Sum @ lift function,-0.023471800680549854,-0.10852979728837349
+ASR_Totp_Raw @ lift function,-0.05433030053135711,-0.09769644489608817
+ASR_Totp_T @ lift function,-0.05357721273805163,-0.08442650180512189
+DSM_Depr_Raw @ lift function,-0.031231565017693506,-0.08875822727166027
+DSM_Depr_Pct @ lift function,-0.03704911030986606,-0.08131357703941296
+DSM_Anxi_Raw @ lift function,-0.051593734340701976,-0.03468394577142854
+DSM_Anxi_Pct @ lift function,-0.04848055214181682,-0.04964277056002551
+DSM_Somp_Raw @ lift function,0.009661042606810924,-0.09352016036296674
+DSM_Somp_Pct @ lift function,-0.017220730565478865,-0.10686774433268871
+DSM_Avoid_Raw @ lift function,-0.07483838150135776,-0.06488448104166217
+DSM_Avoid_Pct @ lift function,-0.09479475468493503,-0.10557563359373166
+DSM_Adh_Raw @ lift function,-0.01408526626217088,-0.08208365404964665
+DSM_Adh_Pct @ lift function,0.01664709681485648,-0.12396861070056682
+DSM_Hype_Raw @ lift function,-0.04665811765152855,-0.10742235477587903
+DSM_Antis_Raw @ lift function,0.029630675555192647,-0.0390320392673192
+DSM_Antis_Pct @ lift function,0.0029167052752682465,-0.01933562136076565
+SSAGA_ChildhoodConduct @ Restricted Instrument: Psychiatric History,-0.05444917267551375,-0.044632235932830694
+SSAGA_PanicDisorder @ Restricted Instrument: Psychiatric History,-0.0056678153497612795,0.041825661404272844
+SSAGA_Agoraphobia @ Restricted Instrument: Psychiatric History,-0.06459211601266086,-0.04585243242415305
+SSAGA_Depressive_Ep @ Restricted Instrument: Psychiatric History,-0.0672289550289992,-0.053627338683315734
+SSAGA_Depressive_Sx @ Restricted Instrument: Psychiatric History,0.052193200484552324,-0.08179151518633267
+Noise_Comp @ Instrument: Audition (Words in Noise,0.17459633793237872,-0.12496955695974087
+Odor_Unadj @ Instrument: Audition (Words in Noise,-0.08037529069179458,-0.05350622165428193
+Odor_AgeAdj @ Instrument: Audition (Words in Noise,-0.07477239653479016,-0.06980143107580809
+"PainInterf_Tscore @ cog_measure[65,] = table1$PainIntens_RawScore Odor",-0.03421316352819946,-0.0708609014473508
+"Taste_Unadj @ cog_measure[65,] = table1$PainIntens_RawScore Odor",-0.03857397899157119,0.046455105460627165
+"Taste_AgeAdj @ cog_measure[65,] = table1$PainIntens_RawScore Odor",-0.07002117344646064,0.051121691391855316
+"EVA_Num @ cog_measure[65,] = table1$PainIntens_RawScore Odor",,
+"EVA_Denom @ cog_measure[65,] = table1$PainIntens_RawScore Odor",-0.014430167155484524,-0.020102706894161052
+Mars_Log_Score @ Instrument: Contrast Sensitivity (Mars Contrast Sensitivity),-0.034275226915942945,-0.023036310512061103
+Mars_Errs @ Instrument: Contrast Sensitivity (Mars Contrast Sensitivity),-0.09555957455793246,-0.07585603603340843
+Mars_Final @ Instrument: Contrast Sensitivity (Mars Contrast Sensitivity),-0.015437282175048143,-0.019329095225471583
+ER40_CR @ Emotion recognition,0.06430832986006892,-0.0474347374374408
+ER40_CRT @ Emotion recognition,-0.08349498559661797,-0.06899584630562658
+ER40ANG @ Emotion recognition,-0.049491415480752345,-0.09601157397583927
+ER40FEAR @ Emotion recognition,-0.014683776871194541,-0.03707215166938048
+ER40HAP @ Emotion recognition,0.07752423427782758,0.025977512330139032
+ER40NOE @ Emotion recognition,-0.05052481595038182,0.002593912831905037
+ER40SAD @ Emotion recognition,-0.027733825752208594,-0.06545707906287578
+AngAffect_Unadj @ Instrument: Negative Affect,-0.06345091163475,-0.04959004005484952
+AngHostil_Unadj @ Instrument: Negative Affect,-0.09865337707940545,-0.13743368535473852
+AngAggr_Unadj @ Instrument: Negative Affect,0.045718852376387356,-0.14061697361505787
+FearAffect_Unadj @ Instrument: Negative Affect,0.0217222761858041,-0.046184091314399205
+FearSomat_Unadj @ Instrument: Negative Affect,0.10550425625379209,-0.06295977177167895
+Sadness_Unadj @ Instrument: Negative Affect,-0.0202049133615205,-0.1082615984893736
+PercStress_Unadj @ Instrument: Stress and Self Efficacy,-0.007307443890858104,-0.01981762603341066
+SelfEff_Unadj @ Instrument: Stress and Self Efficacy,-0.03548512999098663,0.0004159823644829638
+LifeSatisf_Unadj @ Psychological Well-being,0.06580956727998012,-0.16361186001344236
+MeanPurp_Unadj @ Psychological Well-being,-0.05259574629475736,-0.020053113218209663
+PosAffect_Unadj @ Psychological Well-being,-0.1234838507161809,-0.047408170907837714
+Friendship_Unadj @ Social Relationships,-0.07275029161222553,-0.023395383115414566
+Loneliness_Unadj @ Social Relationships,-0.018137916599503992,-0.08462751972060624
+PercHostil_Unadj @ Social Relationships,0.05095250184379866,-0.06617433759691277
+PercReject_Unadj @ Social Relationships,-0.010906069309954098,-0.05716502782584555
+EmotSupp_Unadj @ Social Relationships,0.013466599292934957,-0.03745698487110697
+InstruSupp_Unadj @ Social Relationships,0.013953867098755577,-0.12701530415616852
+NEOFAC_A @ Instrument: Five Factor Model (NEO-FFI),0.07331773718101656,-0.11099498427820619
+NEOFAC_O @ Instrument: Five Factor Model (NEO-FFI),0.01236024635331616,-0.017759858256589284
+NEOFAC_C @ Instrument: Five Factor Model (NEO-FFI),-0.0008425403405578423,-0.10085568213193004
+NEOFAC_N @ Instrument: Five Factor Model (NEO-FFI),-0.03208395816892833,-0.022294948799430427
+NEOFAC_E @ Instrument: Five Factor Model (NEO-FFI),-0.05719463399691393,-0.04864380728073298
+Height @ Health and Family History,0.24557668911381506,0.1275172013722296
+Weight @ Health and Family History,0.1275379001991072,-0.06266563738523376
+BMI @ Health and Family History,-0.04845071039169692,0.029334761896951354
+PSQI_Score @ Health and Family History,-0.04170808061087585,-0.09076693263517786

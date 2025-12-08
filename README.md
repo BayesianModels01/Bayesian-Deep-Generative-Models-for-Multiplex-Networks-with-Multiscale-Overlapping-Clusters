@@ -38,3 +38,18 @@
 - `application/`: all application outputs, including:
   - main application to brain connectivity networks
   - prediction of missing edges
+
+## Python & Package Versions
+- `python`: 3.11
+- `numpy`: 1.20.3
+- `scipy`: 1.6.2
+- `scikit-learn`: 1.3.1
+- `pandas`: 1.5.1
+- `numba`: 0.53.1
+- `polyagamma`: 1.3.2
+- `matplotlib`: 3.7.3
+- `seaborn`: 0.11.1
+- `nilearn`: 0.10.2
+- `nibabel`: 4.0.2
+- `Pillow`: 9.2.0
+
